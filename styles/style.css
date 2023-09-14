@@ -1,0 +1,61 @@
+body{
+background-color: rgb(255, 147, 5);    
+}
+
+#div1{
+display: flex;
+justify-content: center;
+}
+
+#div2{
+    display: flex;
+    justify-content: center;
+}
+
+.p1{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border: 10px solid rgb(244, 16, 16);
+width: 50vw;
+text-align: center;
+
+}
+
+.p2{
+    background-color: rgb(244, 16, 16);
+    color: white;
+    padding: 10px;
+    width: 50vw;
+}
+
+.paragraph{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1,5rem;
+    margin: 1rem;
+}
+
+#list1{
+    color: aquamarine;
+  
+}
+
+#list2{
+    color: rgb(255, 255, 255);
+    background-color: darkgreen;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #66ff00;
+        float: left;
+        display: block;
+        color: #ff0000;
+        text-align: left;
+        padding: 14px;
+        text-decoration: none;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            padding-top: 20px;
+}
